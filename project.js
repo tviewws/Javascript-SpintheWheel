@@ -25,7 +25,7 @@ const SYMBOL_VALUES = {
     C: 3,
     D: 2,
 };
-
+ 
 const deposit = () => {
     while (true) {
         const depositAmount = prompt("Enter a deposit amount: ");
